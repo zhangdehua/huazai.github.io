@@ -59,7 +59,7 @@ span.menu{
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 /*----slider----*/
 .banner{
-	background:url(images/banner.jpg);
+	background:url();
 	background-size:cover;
 	-webkit-background-size:cover;
 	-o-background-size:cover;
@@ -151,7 +151,7 @@ div.slide-text-info {
 		top: -28px
 	}
 	span.menu:before{
-		content:url(images/nav-icon.png) no-repeat 0px 0px;
+		content:url() no-repeat 0px 0px;
 		cursor:pointer;
 	}
 	.top-nav ul{
@@ -288,28 +288,28 @@ div#services {
 i.icon1{
 	width: 137px;
 	height: 137px;
-	background: url(images/service-icons.png)no-repeat 2px 1px;
+	background: url()no-repeat 2px 1px;
 	display: inline-block;
 	cursor: pointer;
 }
 i.icon2{
 	width: 137px;
 	height: 137px;
-	background: url(images/service-icons.png)no-repeat -205px 1px;
+	background: url()no-repeat -205px 1px;
 	display: inline-block;
 	cursor: pointer;
 }
 i.icon3{
 	width: 137px;
 	height: 137px;
-	background: url(images/service-icons.png)no-repeat -413px 1px;
+	background: url()no-repeat -413px 1px;
 	display: inline-block;
 	cursor: pointer;
 }
 i.icon4{
 	width: 137px;
 	height: 137px;
-	background: url(images/service-icons.png)no-repeat -621px 1px;
+	background: url()no-repeat -621px 1px;
 	display: inline-block;
 	cursor: pointer;
 }
@@ -414,7 +414,7 @@ i.icon4{
 	background: none;
 }
 .comments-custom.unstyled .icon {
-	background:url(images/comment.png) no-repeat 0 58%;
+	background:url() no-repeat 0 58%;
 	width: 60px;
 	height: 112px;
 	float: left;
@@ -634,14 +634,14 @@ ul.project_box li.desc p{
 .ocarousel span{
 }
 .ocarousel span a.prev{
-	background: url(images/prev.png) no-repeat 0px 0px;
+	background: url() no-repeat 0px 0px;
 	width:20px;
 	height:20px;
 	display: block;
 	top:-32px;
 }
 .ocarousel span a.next{
-	background: url(images/next.png) no-repeat 0px 0px;
+	background: url() no-repeat 0px 0px;
 	width:20px;
 	height:20px;
 	display: block;
